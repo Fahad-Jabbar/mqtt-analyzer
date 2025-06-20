@@ -1,0 +1,51 @@
+Makefile.qmake
+
+doc/html
+doc/latex
+
+mqtt-explorer
+
+1-xslesa01-xbelko02.zip
+
+# QT
+/.qmake.stash
+
+ui_*.h
+
+moc_*.cpp
+moc_*.h
+
+qrc_*.cpp
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
